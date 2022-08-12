@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Joe1sn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joe1sn&show_icon=true&theme=radical)](https://github.com/Joe1sn)
+[![Joe1sn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joe1sn&show_icon=true&theme=vue)](https://github.com/Joe1sn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joe1sn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Joe1sn/Joe1sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
