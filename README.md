@@ -11,7 +11,8 @@
 - ⚡ Fun fact: People only somke ruikeV
 - 🍔 Blog: [https://blog.joe1sn.top/](https://blog.joe1sn.top/)
 
-
+| <a href="https://github.com/Joe1sn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Joe1sn&show_icons=true&theme=vue&hide_border=true&hide=contribs" alt="Joe1sn's GitHub stats" /></a> | <a href="https://github.com/Joe1sn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe1sn&layout=compact&hide=javascript,html,css" /></a> |
+| ------------- | ------------- |
 
 <!--
 **Joe1sn/Joe1sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
