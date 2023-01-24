@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying cybersec in university
 - 🌱 I'm mainly focus in ... well, a lot
-- 😭 I’m currently learning advanced mathematics
+- 🤔 I’m recent intrested in game's anti-cheat.
 - ⚡ Fun fact: People only somke ruikeV
 - 🍔 Blog: [https://blog.joe1sn.top/](https://blog.joe1sn.top/)
 
