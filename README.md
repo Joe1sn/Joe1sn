@@ -8,6 +8,7 @@
 - 🤔 I’m recent intrested in math & amateur radio.
 - ⚡ Fun fact: eHVlJTIwZGlzdGFuY2U=
 - 🍔 Blog: [https://joe1sn.eu.org/](https://joe1sn.eu.org/)
+- 📧 Email: joe1sn@foxmail.com  joe1sn23333@gmail.com
 
 <!--
 **Joe1sn/Joe1sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
