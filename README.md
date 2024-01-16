@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently homeless
 - 🌱 I'm a cyber security enthusiast
-- 🤔 I’m recent intrested in math & amateur radio.
-- ⚡ Fun fact: eHVlJTIwZGlzdGFuY2U=
+- 🤔 I’m recent intrested in windows kenernel & deutsch.
+- ⚡ Fun fact: F22 jet fighter using VxWorks
 - 🍔 Blog: [https://joe1sn.eu.org/](https://joe1sn.eu.org/)
 - 📧 Email: joe1sn@foxmail.com  joe1sn23333@gmail.com
 
