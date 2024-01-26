@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently jobless
 - 🌱 I'm a cyber security enthusiast
-- 🤔 I’m recent intrested in windows kenernel & deutsch.
-- ⚡ Fun fact: F22 jet fighter using VxWorks
+- 🤔 I’m recent intrested in windows kenernel & deutsch
 - 🍔 Blog: [https://joe1sn.eu.org/](https://joe1sn.eu.org/)
 - 📧 Email: joe1sn@foxmail.com  joe1sn23333@gmail.com
+- ⚡ CVEs: CVE-2022-1172, CVE-2024-22663
 
 <!--
 **Joe1sn/Joe1sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
