@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-| <a href="https://github.com/Joe1sn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Joe1sn&show_icons=true&theme=buefy&hide_border=true&hide=contribs" alt="Joe1sn's GitHub stats" /></a> | <a href="https://github.com/Joe1sn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe1sn&layout=compact&hide_border=true&theme=buefy&hide=javascript,html,css" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/Joe1sn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Joe1sn&show_icons=true&theme=buefy&hide_border=true&hide=contribs" alt="Joe1sn's GitHub stats" /></a>
+
+<a href="https://github.com/Joe1sn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe1sn&layout=compact&hide_border=true&theme=buefy&hide=javascript,html,css" /></a>
 
 - 🔭 I’m currently stay away from github
 - 🌱 I'm a cyber security enthusiast
