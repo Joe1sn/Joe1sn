@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Joe1sn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe1sn&layout=compact&hide_border=true&theme=buefy&hide=javascript,html,css" /></a>
 
-- 🔭 I’m currently stay away from github
+- 🔭 I'm currently want to chase a postgraduate degree
 - 🌱 I'm a cyber security enthusiast
 - 🤔 I’m recent intrested in windows kernel & redteam
 - 🍔 Blog: [https://joe1sn.eu.org/](https://joe1sn.eu.org/)
