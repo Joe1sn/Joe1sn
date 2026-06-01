@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Joe1sn"><img align="center" src="https://github-readme-stats-three-snowy-60.vercel.app/api/top-langs/?username=Joe1sn&layout=compact&hide_border=true&theme=buefy&hide=javascript,html,css" /></a>
 
-- 🔭 I'm currently want to chase a postgraduate degree
+- 🔭 I'm currently doing windows kernel vulnerable exploit developement
 - 🌱 I'm a cyber security enthusiast
 - 🤔 I’m recent intrested in windows kernel & redteam
 - 🍔 Blog: [https://joe1sn.eu.org/](https://joe1sn.eu.org/)
