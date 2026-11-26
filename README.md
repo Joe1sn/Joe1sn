@@ -11,7 +11,7 @@
 - 📧 Email: joe1sn@foxmail.com  joe1sn23333@gmail.com
 - ⚡ CVEs:
    - CVE-2022-1172, CVE-2024-22663
-   - CNVD-2026-?????
+   - CNVD-2026-47307
 
 <!--
 **Joe1sn/Joe1sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
